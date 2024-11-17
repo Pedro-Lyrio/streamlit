@@ -1,2 +1,2 @@
-# streamlit
-Projeto de análise de dados usando python e streamlit
+O aplicativo permite aos usuários analisar e obter informações atualizadas sobre o mercado de commodities, incluindo o preço e a variação de diversos produtos. A análise abrange um período de tempo específico, determinado pelo usuário e examina as variações dos preços de commodities-chave, como petróleo, ouro, grãos, metais e outros produtos relevantes para o mercado global. Os dados foram coletados a partir de fontes confiáveis, como: Yahoo Finance.
+
